@@ -1,0 +1,3 @@
+Данни за влизане като администратор:
+username / email: admin
+Password: Test@12345
